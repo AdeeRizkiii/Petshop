@@ -1,7 +1,7 @@
 # Petshop
-#Kelompok 3 
-#UAS PEMROGRAMAN WEB 
-#IF 4A
+Kelompok 3 
+UAS PEMROGRAMAN WEB 
+IF 4A
 
 #ADE RIZKI AS
 #IQBAL HERIYADI
